@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="text_bottom">#ADACAB</color>
+    <color name="BLACK">#000000</color>
+    <color name="ripple_effect">#B11515</color>
+    <color name="btn_sign_in">#E64D4D</color>
+    <color name="btn_sign_in_stroke">#E62C2C</color>
+    <color name="btn_register">#FF3D00</color>
+    <color name="btn_register_stroke">#AC3813</color>
+
+
+</resources>

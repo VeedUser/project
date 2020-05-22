@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1052835301117",
+    "firebase_url": "https://fir-taras.firebaseio.com",
+    "project_id": "fir-taras",
+    "storage_bucket": "fir-taras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052835301117:android:929d0aa056540c9a786094",
+        "android_client_info": {
+          "package_name": "com.example.firebasetaras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052835301117-gmrfr5j3gc3k4ps3lbguqa371ma2anrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasetaras",
+            "certificate_hash": "b3d03b4db30f1399311f1cdd15cb89f5224afeac"
+          }
+        },
+        {
+          "client_id": "1052835301117-hf39o06g7b4ghb954t887ma89f09aori.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb4LU1pP9b78j5U_vBq40n6ws_DijH2WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052835301117-hf39o06g7b4ghb954t887ma89f09aori.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
